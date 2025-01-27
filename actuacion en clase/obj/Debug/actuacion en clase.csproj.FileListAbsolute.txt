@@ -1,0 +1,7 @@
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\bin\Debug\actuacion en clase.exe.config
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\bin\Debug\actuacion en clase.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\bin\Debug\actuacion en clase.pdb
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\obj\Debug\actuacion en clase.csproj.AssemblyReference.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\obj\Debug\actuacion en clase.csproj.CoreCompileInputs.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\obj\Debug\actuacion en clase.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\ejercicios en clase\actuacion en clase\actuacion en clase\obj\Debug\actuacion en clase.pdb
